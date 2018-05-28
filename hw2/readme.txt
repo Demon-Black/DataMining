@@ -1,0 +1,2 @@
+用浏览器打开html文件或将ipynb文件上传到jupyter notebook中查看代码和运行结果。
+html文件中的结果由于没有滑动窗口所以较为冗长。
